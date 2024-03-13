@@ -1,0 +1,102 @@
+version: 1
+schema:
+  type: struct
+  fields:
+  - name: movie_title
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: production_date
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: genres
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: runtime_minutes
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: director_name
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: director_professions
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: director_birthYear
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: director_deathYear
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: movie_averageRating
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: movie_numerOfVotes
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: approval_Index
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: Production budget $
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: Domestic gross $
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
+  - name: Worldwide gross $
+    type: string
+    nullable: true
+    metadata:
+      description: ''
+      mappings: []
+      tags: []
