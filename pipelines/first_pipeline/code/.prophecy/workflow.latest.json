@@ -9,7 +9,7 @@
     "id" : "1",
     "uri" : "pipelines/first_pipeline",
     "language" : "python",
-    "fabricId" : "10146",
+    "fabricId" : "10090",
     "frontEndLanguage" : "sql",
     "mode" : "batch",
     "udfs" : {
@@ -267,7 +267,7 @@
             "format" : "sql",
             "expression" : "movie_averageRating"
           },
-          "sortType" : "desc_nulls_first"
+          "sortType" : "asc"
         } ]
       },
       "componentInfo" : {
