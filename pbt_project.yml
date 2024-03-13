@@ -1,6 +1,6 @@
 name: test_git_suraj
 description: test git fork
-version: 0.0.1
+version: v0.1
 author: suraj.thakur@cloudaeon.net
 language: python
 buildSystem: ''
